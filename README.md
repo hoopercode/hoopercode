@@ -11,6 +11,8 @@ Please get in touch if you are looking at working together.
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hoopercode&theme=blue-green">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoopercode
+
 
 ## Socials :sparkles:
 
