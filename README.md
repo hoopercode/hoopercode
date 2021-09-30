@@ -11,6 +11,8 @@ Please get in touch if you are looking at working together.
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hoopercode">
 <img src ="https://github-readme-stats.vercel.app/api?username=hoopercode&show_icons=true">
+<img src ="https://komarev.com/ghpvc/?username=hoopercode">
+
 
 
 ## Socials :sparkles:
